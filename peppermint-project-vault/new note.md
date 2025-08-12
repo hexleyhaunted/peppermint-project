@@ -1,1 +1,1 @@
-a new note
+a new note, with more text
