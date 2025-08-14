@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "important beginner skills.md",
+                "file": "everything is already magic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "important beginner skills"
+              "title": "everything is already magic"
             }
           }
         ]
@@ -170,6 +170,7 @@
   },
   "active": "ad6aa65a8270252f",
   "lastOpenFiles": [
+    "important beginner skills.md",
     "everything is already magic.md",
     "new note.md",
     "Welcome.md"
