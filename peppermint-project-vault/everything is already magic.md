@@ -1,0 +1,1 @@
+It feels like an important point to make that the world isn't separated into the normal and the magical, a lot of what we already do is deeply magical and transformative, things like baking bread or making bracelets or making art. Often, the way to make something very magic is to take something that's already magical and nudge it to make it even more so.
