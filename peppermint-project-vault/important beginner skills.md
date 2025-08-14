@@ -1,0 +1,8 @@
+- plant watching
+- being stil (sdsu)
+- feeling your emotions/body
+- communicating with things
+- finding a community
+- working out what to believe
+- shadow work
+- tarot
