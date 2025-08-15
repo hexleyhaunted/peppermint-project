@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sensing.md",
+                "file": "everything is already magic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sensing"
+              "title": "everything is already magic"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sensing.md",
+                "file": "everything is already magic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for sensing"
+              "title": "Backlinks for everything is already magic"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sensing.md",
+                "file": "everything is already magic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from sensing"
+              "title": "Outgoing links from everything is already magic"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sensing.md",
+                "file": "everything is already magic.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of sensing"
+              "title": "Outline of everything is already magic"
             }
           }
         ]
@@ -184,8 +184,9 @@
   },
   "active": "478e3f58d7738a63",
   "lastOpenFiles": [
-    "everything is already magic.md",
+    "important beginner skills.md",
     "sensing.md",
+    "everything is already magic.md",
     "how to move your awareness.md",
     "sensing.md~",
     "new note.md"

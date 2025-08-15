@@ -7,3 +7,9 @@ I used to think it would be better to separate my "magical" life from my "mundan
 The difference between a magical act and a simply mundane one is the level of intention and consideration you put into it.  This is not universally true - a carefully-formulated phrase and something blurted out from the heart can both be magical expressions - but it is useful for most things you might not think are magic at the start.  Cleaning, cooking, daily tasks, even commuting to and from work can be magic with the right reframe.
 
 The world is full of wonder if you know how and where to look for it, so practice looking for it.
+
+---
+> The difference between a magical act and a simply mundane one is the level of intention
+> 
+
+I strongly agree with this. I mean the foundations of magic are intention, clarity, belief and will, and there's no reason you can't do mundane things with more of that. Washing dishes with the intent of putting your house back into order and making things clean can be as powerfully magical as anything else. Magic is simply doing what you already do in a more aware, thoughtful way.
