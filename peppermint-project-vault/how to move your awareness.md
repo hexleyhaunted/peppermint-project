@@ -1,0 +1,5 @@
+Feel where your awareness currently is, where your attention emanates from. can you move it? What if you move your attention to you fingertip, can you think from there? can you focus all of your attention on your fingertip? can you spread it out too? not a pinpoint of awareness, but a glow across your entire body. Move your attention around your body for a bit, explore it.
+
+Now try spreading your awareness to your entire body again, hold that for a moment and then move your attention to an inch around your body like a second skin. Just hold that for a moment, what do you feel? When this becomes comfortable move your attention out further, spreading your attention over the entire area. can you feel the space around you? Can you encompass the entire room? The building? The country?
+
+Draw your attention back in and focus on your own body to re center yourself. If you feel comfortable with all of this, you can move on to [[sensing]].
