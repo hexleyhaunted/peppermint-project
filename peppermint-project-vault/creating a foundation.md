@@ -1,3 +1,5 @@
 one of the often overlooked things is that magic is a skill and you can't expect any skill to develop in poor conditions. If you're in a bad relationship and eat junk and never exercise and binge the news all day you'll find your ability to progress in magic and everything else severely stunted. Its like caring for a houseplant, youve got to give it the conditions to flourish, not just drown it in water once a month.
 
 so what forms a strong foundation? You probably already know, its all the grown up not fun stuff that can feel very not magic. exercise, healthy food, time outside, healthy friendships, being on top of your finances, meditation. its not glamorous or exciting, but its the soil and water and sunshine that lets you grow flowers.
+
+You don't have to be perfect to start. Start where you are with what you have, but also in the background make efforts to improve and maintain your foundation, because it's hard to build anything that lasts without it.
